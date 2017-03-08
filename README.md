@@ -1,1 +1,3 @@
 # cobasql
+
+ini penyelamatan pertama
